@@ -1,1 +1,1 @@
-*/5 * * * * /home/pi/timelapser/take-picture.sh
+*/5 * * * * /bin/sh /home/pi/timelapser/take-picture.sh 
