@@ -1,1 +1,2 @@
 */5 * * * * /bin/sh /home/pi/timelapser/take-picture.sh 
+# 0 8 * * * /bin/sh /home/pi/timelapser/copy-images-to-nas.sh <user@nas> <target directory>/timelapser
